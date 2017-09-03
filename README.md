@@ -5,6 +5,7 @@ Inspired by sensei @LIttleAncientForestKami I am going to share some of my "cera
 2. Folder "fork" contains modified exercises from "main". They are modified because it was fun to modify them.
 
 References:
+
 Practice funicular: http://www.lafk.pl/QA_Auto_Funicular/
 
 DOJO: https://lafkblogs.wordpress.com/
