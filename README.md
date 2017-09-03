@@ -8,4 +8,4 @@ References:
 
 Practice funicular: http://www.lafk.pl/QA_Auto_Funicular/
 
-DOJO: https://lafkblogs.wordpress.com/
+DOJO: https://lafkblogs.wordpress.com/
