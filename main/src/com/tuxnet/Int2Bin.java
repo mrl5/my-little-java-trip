@@ -9,6 +9,11 @@ public class Int2Bin {
     public String toBin(int number) {
         List binNumber = new ArrayList();
         String s = "";
+        boolean negative = false;
+        if (number < 0) {
+            number = (-1)*number;
+            negative = true;
+        }
 
         while (number > 1) {
             binNumber.add(number % 2);
@@ -22,6 +27,9 @@ public class Int2Bin {
         for (Object o : binNumber) {
             s += o.toString();
         }
+
+        if (negative)
+            s = "-" + s;
 
         return s + "(BIN)";
     }

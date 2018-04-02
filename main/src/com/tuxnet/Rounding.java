@@ -22,6 +22,6 @@ public class Rounding {
             System.out.println("Rounding precision parameter must fulfil the condition: \"precision >= 0\"");
         }
         return output;
-        
+
     }
 }
